@@ -15,7 +15,7 @@ Digital Electronics, Proteus
   - the square of number(n) is greater than input number - In that case we will get n-1 as answer.
   
 ## MAIN CIRCUIT
-<img width="603" alt="image" src="https://user-images.githubusercontent.com/93527557/205058748-582cdee0-7162-478c-b59c-f64d9318c763.png">
+<img width="602" alt="image" src="https://user-images.githubusercontent.com/93527557/205199104-964a6e1d-7a38-434b-848e-2a156e8b1964.png">
 
 ## SUBCIRCUITS
  - 5 Bit Counter
