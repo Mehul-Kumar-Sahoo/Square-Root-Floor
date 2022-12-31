@@ -2,6 +2,8 @@
 
 I am Mehul Kumar Sahoo currently in 2nd year in BTech in ECE at IIT(BHU). I have made a digital circuit for finding the floor of the square root of a number(10-bits maximum).
 
+The Verilog code for the same is also given in this repository.
+
 ## TASK
 To find the floor of the square root of a binary number (10-bits maximum).
 
